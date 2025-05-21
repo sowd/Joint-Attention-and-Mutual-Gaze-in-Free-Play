@@ -1,0 +1,1 @@
+docker run --rm -v /home/sgrowd/data:/root/data -v /home/sgrowd/Joint-Attention-and-Mutual-Gaze-in-Free-Play:/root/Joint-Attention-and-Mutual-Gaze-in-Free-Play -it  nvidia/cuda:11.7.1-cudnn8-runtime-ubuntu20.04 bash
